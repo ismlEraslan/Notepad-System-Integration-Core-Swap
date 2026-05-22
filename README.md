@@ -13,7 +13,7 @@ How It Works
 
 Environment Support
 
-    OS: Windows 11 (Home, Pro, Enterprise)
+    OS: Windows 10 & 11
 
     Architecture: x64
 
